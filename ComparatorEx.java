@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class ComparatorExample {
+public class ComparatorEx {
   public static void main(String[] args) {
 
     Comparator<Integer> com=new Comparator<Integer>() {
